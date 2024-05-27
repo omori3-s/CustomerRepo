@@ -2,3 +2,8 @@
 5/13
 dedededede
 ばばです
+hread 1 received signal SIGSEGV, Segmentation fault.
+0x00007ff732bb16c8 in main () at C:\Users\Administrator\Desktop\work\rensyu10_1.c:32
+32	        if (gensi[i].gensibangou == (unsigned char)atoi(search_bangou)){
+Execute debugger commands using "-exec <command>", for example "-exec info registers" will list registers in use (when GDB is the debugger)
+Declaring Two-Dimensional Arrays
